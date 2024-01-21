@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 import os
-import PyPDF2 as pdf
+import pdf to image as pdf
 from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer, util
 
